@@ -170,7 +170,7 @@ at your option.
 
 ## Credits and Special Thanks
 
-- [Adam Sawicki - AMD](https://github.com/adam-sawicki-amd) (Author of C/C++ library)
+- [Adam Sawicki - AMD](https://github.com/adam-sawicki-a) (Author of C/C++ library)
 - [Maik Klein](https://github.com/MaikKlein) (Author of ash - Vulkan rust bindings)
 - [Johan Andersson](https://github.com/repi) (Contributions)
 - [Patrick Minogue](https://github.com/afpatmin) (Contributions)
